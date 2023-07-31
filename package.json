@@ -1,0 +1,19 @@
+{
+  "name": "band-name-generator-uofw",
+  "version": "1.0.0",
+  "description": "A node js band name generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/LShankKirchner017/band-name-generator-UofW)"
+  },
+  "author": "LShankKirchner017",
+  "license": "ISC",
+  "dependencies": {
+    "chalk-animation": "^2.0.3",
+    "random-word-slugs": "^0.1.7"
+  }
+}
